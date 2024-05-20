@@ -1,0 +1,21 @@
+import = [
+	'~/.config/alacritty/themes/everforest_light.toml',
+]
+
+[window]
+padding = {x = 10, y = 10}
+startup_mode = 'Fullscreen'
+title = ':3'
+dynamic_title = false
+
+[font]
+normal = {family = 'Cascadia Code'}
+size = 12
+
+[keyboard]
+bindings = [
+	{key = 'T', mods = 'Alt', action = 'ToggleFullscreen'},
+	{key = 'R', mods = 'Alt', action = 'ResetFontSize'},
+]
+
+
