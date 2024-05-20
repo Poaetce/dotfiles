@@ -12,10 +12,11 @@ dynamic_title = false
 normal = {family = 'Cascadia Code'}
 size = 12
 
+[cursor]
+style = {shape = 'Beam', blinking = 'On'}
+
 [keyboard]
 bindings = [
 	{key = 'T', mods = 'Alt', action = 'ToggleFullscreen'},
 	{key = 'R', mods = 'Alt', action = 'ResetFontSize'},
 ]
-
-
