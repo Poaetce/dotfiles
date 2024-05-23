@@ -1,5 +1,5 @@
 {
-  "everforest": { "branch": "master", "commit": "bb482c354872cccb56f83e843caf3e5d33f89a24" },
+  "everforest": { "branch": "master", "commit": "3e5ec2550d0179fdc5b7ab3739730c71a4f3e5a0" },
   "lazy.nvim": { "branch": "main", "commit": "8f19915175395680808de529e4220da8dafc0759" },
   "lualine": { "branch": "master", "commit": "0a5a66803c7407767b799067986b4dc3036e1983" },
   "noice": { "branch": "main", "commit": "883cd5b638aef23d087c334940112d39ebff0aaa" },
