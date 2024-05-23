@@ -3,8 +3,8 @@ return {
 
 
 	name = 'treesitter',
-	
-	
+
+
 	config = function ()
 		local configs = require('nvim-treesitter.configs')
 		configs.setup({
@@ -23,6 +23,6 @@ return {
 		})
 	end,
 
-	
+
 	build = ':TSUpdate',
 }

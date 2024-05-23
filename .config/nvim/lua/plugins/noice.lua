@@ -1,15 +1,15 @@
 return {
 	'folke/noice.nvim',
-	
+
 
 	name = 'noice',
-	
+
 
 	dependencies = {
 		'MunifTanjim/nui.nvim',
 		'rcarriga/nvim-notify',
 	},
-	
+
 
 	opts = {
 		lsp = {
@@ -19,7 +19,7 @@ return {
 			},
 		},
 	},
-	
+
 
 	event = 'VeryLazy',
 }
