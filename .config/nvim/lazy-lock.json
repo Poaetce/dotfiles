@@ -1,4 +1,5 @@
 {
+  "better-whitespace": { "branch": "master", "commit": "029f35c783f1b504f9be086b9ea757a36059c846" },
   "everforest": { "branch": "master", "commit": "3e5ec2550d0179fdc5b7ab3739730c71a4f3e5a0" },
   "lazy.nvim": { "branch": "main", "commit": "8f19915175395680808de529e4220da8dafc0759" },
   "lualine": { "branch": "master", "commit": "0a5a66803c7407767b799067986b4dc3036e1983" },
