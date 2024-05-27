@@ -10,6 +10,9 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 
+export PATH="~/installations/Odin:$PATH"
+
+
 # fzf
 eval "$(fzf --bash)"
 
