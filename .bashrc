@@ -13,6 +13,9 @@ PS1='[\u@\h \W]\$ '
 export PATH="~/installations/Odin:$PATH"
 
 
+alias py='python'
+
+
 # fzf
 eval "$(fzf --bash)"
 
