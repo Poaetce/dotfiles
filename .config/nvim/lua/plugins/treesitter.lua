@@ -9,8 +9,9 @@ return {
 		local configs = require('nvim-treesitter.configs')
 		configs.setup({
 			ensure_installed = {
-				'lua',
 				'python',
+				'odin',
+				'lua',
 				'vim',
 				'regex',
 				'bash',
