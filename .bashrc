@@ -10,9 +10,11 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 
+# exports
 export PATH="~/installations/Odin:$PATH"
 
 
+# aliases
 alias py='python'
 
 
