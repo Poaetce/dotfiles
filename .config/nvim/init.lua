@@ -14,3 +14,5 @@ vim.opt.rtp:prepend(lazypath)
 require('lazy').setup('plugins')
 
 vim.opt.number = true
+
+vim.keymap.set('n', '<leader>e', '<Cmd>Explore<CR>')
