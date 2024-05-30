@@ -5,9 +5,8 @@ return {
 	name = 'treesitter',
 
 
-	config = function ()
-		local configs = require('nvim-treesitter.configs')
-		configs.setup({
+	opts = {
+		configs = {
 			ensure_installed = {
 				'python',
 				'odin',
@@ -21,8 +20,8 @@ return {
 			},
 			highlight = {enabled = true},
 			indent = {enabled = true},
-		})
-	end,
+		},
+	},
 
 
 	build = ':TSUpdate',
