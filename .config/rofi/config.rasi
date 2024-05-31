@@ -9,23 +9,4 @@ configuration {
 }
 
 
-* {
-	padding: 10px;
-}
-
-window {
-	height: 850px;
-	border: 5px;
-}
-
-listview {
-	spacing: 6px;
-}
-
-entry {
-	placeholder: "";
-}
-
-element {
-	margin: 8px;
-}
+@theme "theme"
