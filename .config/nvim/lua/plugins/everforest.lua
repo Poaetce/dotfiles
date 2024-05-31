@@ -9,7 +9,6 @@ return {
 
 
 	config = function ()
-		vim.opt.background = 'light'
 		vim.g.everforest_enable_italic = true
 		vim.cmd.colorscheme('everforest')
 	end,
