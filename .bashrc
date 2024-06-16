@@ -18,6 +18,7 @@ export PATH="~/installations/Odin:$PATH"
 alias py='python'
 
 
+# initializations
 # fzf
 eval "$(fzf --bash)"
 
@@ -28,5 +29,6 @@ eval "$(zoxide init bash)"
 eval "$(oh-my-posh init bash --config ~/.config/omp/poa.omp.json)"
 
 
+# startup
 echo :3
 lyrix
