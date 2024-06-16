@@ -29,3 +29,4 @@ eval "$(oh-my-posh init bash --config ~/.config/omp/poa.omp.json)"
 
 
 echo :3
+lyrix
