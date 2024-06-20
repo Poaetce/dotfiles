@@ -14,5 +14,7 @@ vim.opt.rtp:prepend(lazypath)
 require('lazy').setup('plugins')
 
 vim.opt.number = true
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
 
 vim.keymap.set('n', '<leader>e', '<Cmd>Explore<CR>')
