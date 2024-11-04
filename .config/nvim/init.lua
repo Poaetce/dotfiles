@@ -16,6 +16,6 @@ require('lazy').setup('plugins')
 vim.opt.number = true
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
-vim.opt.colorcolumn = "80"
+vim.opt.colorcolumn = "100"
 
 vim.keymap.set('n', '<leader>e', '<Cmd>Explore<CR>')
