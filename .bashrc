@@ -12,6 +12,7 @@ PS1='[\u@\h \W]\$ '
 
 # exports
 export PATH="~/installations/Odin:$PATH"
+export PATH="~/installations/aseprite/build/bin:$PATH"
 
 
 # aliases
